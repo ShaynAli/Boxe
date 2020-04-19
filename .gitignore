@@ -1,3 +1,10 @@
-.idea/
-designs/
+# Build
+__pycache__/
 venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Project files
+designs/
